@@ -1,0 +1,16 @@
+{
+  "name": "ca/cachebust",
+  "description": "Add the modified timestamp to asset urls (CSS/JS) for cachebusting.",
+  "license": "MIT",
+  "type": "kirby-plugin",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Carsten Jaksch",
+      "email": "carsten@jaksch.me"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.2.1"
+  }
+}
